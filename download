@@ -1,0 +1,11 @@
+# Build and simulation artifacts
+build/
+*.out
+*.vcd
+*.log
+*.vvp
+
+# Editor / OS
+.vscode/
+.DS_Store
+*.swp
